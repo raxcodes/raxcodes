@@ -18,11 +18,10 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+[![](https://visitcount.itsvg.in/api?id=raxcodes&icon=0&color=6)](https://visitcount.itsvg.in)
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-[![](https://visitcount.itsvg.in/api?id=raxcodes&icon=0&color=6)](https://visitcount.itsvg.in)
----
+
 </div>
 
   ## 💰 You can help me by Donating
