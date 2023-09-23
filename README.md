@@ -1,9 +1,10 @@
-
-
 <div align="center">
+
 # 💫 About Me:
+
 </div>
-  
+
+
 🧑‍💻 I'm a passionate front-end developer, dedicated to creating engaging and user-friendly web experiences.<br><br>🪄 Currently, I'm on an exciting journey of learning and mastering Next.js and Node.js, exploring the world of server-side rendering and serverless applications.<br><br>🔥 Ask Me About React.js! I'm a big fan of React and have hands-on experience building dynamic and responsive user interfaces with it.<br><br>✨ I believe in the power of code to transform ideas into reality, and I'm always eager to collaborate on innovative projects that push the boundaries of what's possible on the web.<br><br>🌀 Let's connect and build amazing things together!<br>
 
 <div align="center">
