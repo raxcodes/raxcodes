@@ -1,4 +1,9 @@
+
+
+<div align="center">
 # 💫 About Me:
+</div>
+  
 🧑‍💻 I'm a passionate front-end developer, dedicated to creating engaging and user-friendly web experiences.<br><br>🪄 Currently, I'm on an exciting journey of learning and mastering Next.js and Node.js, exploring the world of server-side rendering and serverless applications.<br><br>🔥 Ask Me About React.js! I'm a big fan of React and have hands-on experience building dynamic and responsive user interfaces with it.<br><br>✨ I believe in the power of code to transform ideas into reality, and I'm always eager to collaborate on innovative projects that push the boundaries of what's possible on the web.<br><br>🌀 Let's connect and build amazing things together!<br>
 
 <div align="center">
@@ -19,13 +24,14 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 [![](https://visitcount.itsvg.in/api?id=raxcodes&icon=0&color=6)](https://visitcount.itsvg.in)
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-</div>
+## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/raxcodes) 
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/raxcodes) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/raxcodestudio) 
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/raxcodestudio) 
 
-  
+</div>  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
