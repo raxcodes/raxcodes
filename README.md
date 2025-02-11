@@ -4,7 +4,7 @@
 
 </div>
 
-Nothing...
+<center>Nothing...<center/>
 
 <div align="center">
 
