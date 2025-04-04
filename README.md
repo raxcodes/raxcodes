@@ -38,7 +38,7 @@
 <!-- Circular Project Thumbnails -->
 <div style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin: 20px 0;">
   <div style="text-align: center;">
-    <a href="https://github.com/yourusername/project1">
+    <a href="https://github.com/raxcodes/project1">
       <img src="https://via.placeholder.com/120x120.png?text=Portfolio" alt="Portfolio" style="width: 120px; height: 120px; border-radius: 50%; border: 3px solid #FFEA00;"/>
     </a>
     <p style="color: #FFC107;">Portfolio Site</p>
