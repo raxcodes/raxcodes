@@ -15,7 +15,7 @@
 <!-- Circular Profile Intro -->
 <div style="text-align: center; color: #FFC107;">
   <img src="https://avatars.githubusercontent.com/u/yourusername?v=4" alt="Profile Pic" style="width: 150px; height: 150px; border-radius: 50%; border: 4px solid #FFEA00;"/>
-  <h1>🌍 Rohit Padghan</h1>
+  <h1>🌍 Rohit </h1>
   <p><strong>Frontend Wizard | Code Explorer | Design Enthusiast</strong></p>
 </div>
 
