@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Rohit 👋
 
 **Web Developer | Designer | Lifelong Learner**
 
