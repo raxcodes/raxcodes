@@ -1,12 +1,12 @@
 <!-- Yellow Banner with ASCII Art -->
-<center><div style="background-color: #FFD700; padding: 15px; text-align: center; font-family: monospace; color: #000000;">
-  <pre>
+<div style="background-color: #FFD700; padding: 15px; text-align: center; font-family: monospace; color: #000000;">
+ <center> <pre>
    🌟 WELCOME TO MY CODE GALAXY 🌟
    --------------------------------
    Crafting pixels, one line at a time!
-  </pre>
+  </pre><center/>
 </div>
-<center/>
+
 <!-- Animated GIF for Energy -->
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Coding Vibes" width="300"/>
