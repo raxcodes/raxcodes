@@ -2,7 +2,7 @@
 ![Banner](banner.png)
 
 <!-- Animated GIF for dynamic effect -->
-![Animation](animation.gif)
+![Animation]([animation.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3hubGxxd2ZxbzhmdTgxNDdzYmI1NWR1eGNtZGhnOXA1ajRlNTY5OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ybAqwDKfT42AhiI8xx/giphy.gif))
 
 <!-- Introduction with yellow text -->
 <div style="text-align: center; color: #FFD700;">
@@ -12,7 +12,7 @@
 
 ## 💫 About Me
 <div style="text-align: center; padding: 10px;">
-  <p>Hey there! I’m a code astronaut 🚀 who turns coffee into pixel-perfect interfaces. When I’m not exploring the digital cosmos, you’ll find me sketching designs or diving into the latest tech trends.</p>
+  <p>Hey there! I’m a code astronaut 🚀 who turns coffee into pixel-perfect interfaces. You’ll find me sketching designs or diving into the latest tech trends when I'm not exploring the digital cosmos.</p>
 </div>
 
 ## 🛠️ Tech Stack
