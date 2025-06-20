@@ -1,6 +1,6 @@
 # <div align="center">👋 Hey there, I'm **Rohit** (aka **RaxCodes**)</div>
 
-<div align="center">
+ <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Creative+Developer+%F0%9F%9A%80;Speed+%26+Clean+Code+Obsessed+%E2%9A%A1;High-Converting+Websites+Builder+%F0%9F%8E%AF;Always+Learning%2C+Always+Building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
