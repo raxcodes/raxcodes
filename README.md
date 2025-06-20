@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there, I'm Rohit Padghan
+# 👋 Hey there, I'm Rohit
 ### aka **RaxCodes** — where creativity meets code
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Creative+Developer;High-Converting+Websites;Speed+%2B+Clean+Code+Obsessed;Building+Digital+Experiences" alt="Typing SVG" />
