@@ -2,7 +2,7 @@
 
 import { useState } from "react"
 import { motion, AnimatePresence } from "framer-motion"
-import CoffeeLoading from "@/components/coffee-loading"
+import CoffeePreloader from "@/components/coffee-preloader"
 import Hero from "@/components/hero"
 import LatestReel from "@/components/latest-reel"
 import PhotoCarousel from "@/components/photo-carousel"
@@ -14,26 +14,26 @@ import ContactForm from "@/components/contact-form"
 import FloatingCTA from "@/components/floating-cta"
 
 export default function CafeHopperPage() {
-  const [isLoading, setIsLoading] = useState(true)
-  const [isContentLoaded, setIsContentLoaded] = useState(false)
+  const [showPreloader, setShowPreloader] = useState(true)
+  const [showContent, setShowContent] = useState(false)
 
-  const handleLoadingComplete = () => {
-    setIsLoading(false)
+  const handlePreloadComplete = () => {
+    setShowPreloader(false)
     setTimeout(() => {
-      setIsContentLoaded(true)
+      setShowContent(true)
     }, 300)
   }
 
   return (
     <div className="min-h-screen bg-dark-bg">
       <AnimatePresence mode="wait">
-        {isLoading ? (
-          <CoffeeLoading key="loading" onLoadingComplete={handleLoadingComplete} />
+        {showPreloader ? (
+          <CoffeePreloader key="preloader" onPreloadComplete={handlePreloadComplete} />
         ) : (
           <motion.div
             key="content"
             initial={{ opacity: 0 }}
-            animate={{ opacity: isContentLoaded ? 1 : 0 }}
+            animate={{ opacity: showContent ? 1 : 0 }}
             transition={{ duration: 0.6 }}
           >
             <Hero />
