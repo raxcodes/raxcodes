@@ -1,7 +1,8 @@
 "use client"
 
-import { useState, useEffect } from "react"
+import { useState } from "react"
 import { motion, AnimatePresence } from "framer-motion"
+import CoffeeLoading from "@/components/coffee-loading"
 import Hero from "@/components/hero"
 import LatestReel from "@/components/latest-reel"
 import PhotoCarousel from "@/components/photo-carousel"
@@ -13,17 +14,28 @@ import ContactForm from "@/components/contact-form"
 import FloatingCTA from "@/components/floating-cta"
 
 export default function CafeHopperPage() {
-  const [isLoaded, setIsLoaded] = useState(false)
+  const [isLoading, setIsLoading] = useState(true)
+  const [isContentLoaded, setIsContentLoaded] = useState(false)
 
-  useEffect(() => {
-    setIsLoaded(true)
-  }, [])
+  const handleLoadingComplete = () => {
+    setIsLoading(false)
+    setTimeout(() => {
+      setIsContentLoaded(true)
+    }, 300)
+  }
 
   return (
     <div className="min-h-screen bg-dark-bg">
-      <AnimatePresence>
-        {isLoaded && (
-          <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.6 }}>
+      <AnimatePresence mode="wait">
+        {isLoading ? (
+          <CoffeeLoading key="loading" onLoadingComplete={handleLoadingComplete} />
+        ) : (
+          <motion.div
+            key="content"
+            initial={{ opacity: 0 }}
+            animate={{ opacity: isContentLoaded ? 1 : 0 }}
+            transition={{ duration: 0.6 }}
+          >
             <Hero />
             <LatestReel />
             <PhotoCarousel />
